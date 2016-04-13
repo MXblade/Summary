@@ -7,7 +7,8 @@ Eclipse Mars版本已经内置了egit。
 #####1.项目转化成git仓库
 目标项目右键->Team->Shared project
 ![](http://i.imgur.com/uxtjrx2.png)
-选上Use or create repository in parent folder of project,将该项目转化为git仓库。![](http://i.imgur.com/ON9b4Qv.png)
+选上Use or create repository in parent folder of project,将该项目转化为git仓库。
+![](http://i.imgur.com/ON9b4Qv.png)
 选择Create Repository->finish。完成git仓库的转化
 #####2.将git仓库部署到github
 git仓库右键->Team->Commit
